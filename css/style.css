@@ -81,3 +81,55 @@ h3{
     background-repeat: no-repeat;
     background-position: center center;
 }
+.social-row{
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+.social-container{
+    padding-bottom: 80px;
+    border-bottom: 1px solid #c2c1c1;
+}
+
+.fb-btn{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/icons/png/social_btn.png);
+    background-repeat: no-repeat;
+    background-position: 2px 2px;  
+}
+.insta-btn{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/icons/png/social_btn.png);
+    background-repeat: no-repeat;
+    background-position: -60px 2px; 
+}
+.gplus-btn{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/icons/png/social_btn.png);
+    background-repeat: no-repeat;
+    background-position: -126px 2px; 
+}
+.lind-btn{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/icons/png/social_btn.png);
+    background-repeat: no-repeat;
+    background-position: -187px 2px; 
+}
+.form-control, .select2-search input[type=text]{
+    border:2px solid #d2c6ac;
+}
+
+.btn-default {
+    background: #343434;
+}
+.btn-default:hover{
+    background: #b31925;
+}
